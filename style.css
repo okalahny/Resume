@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  width: 0% auto;
+  margin:0% auto;
+}
+
+.profile-image img {
+  width: 50%;
+   margin:0% auto;
+}
